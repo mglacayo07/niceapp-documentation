@@ -6,7 +6,7 @@ Permite la administración de listas de compras, inventario y listas de clientes
 ## Técnologías
 * Aplicación en Swift [[código](https://github.com/mglacayo07/niceapp)]
 * API en Python [[visitar](https://api4ein.niceapp.com.mx/)]
-* Página Web [[visitar](https://ein.niceapp.com.mx/)]
+* Página Web [[visitar](https://admin.niceapp.com.mx/)]
 
 ## Guía Rápida
 
