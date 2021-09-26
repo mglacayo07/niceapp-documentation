@@ -24,6 +24,7 @@ Notas:
 ## Documentación
 
 * Presentación de Nice App como producto [[aquí](https://github.com/mglacayo07/niceapp-documentation/blob/main/presentacio%CC%81n.pdf)]
+* Documentación Técnica de la app [[aquí](https://github.com/mglacayo07/niceapp-documentation/blob/main/documentacio%CC%81n_te%CC%81cnica.pdf)]
 
 ## Icono
 
