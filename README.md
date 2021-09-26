@@ -21,6 +21,10 @@ Notas:
 * Si quiere probar el Scanner es necesario leer solo código validos. Al final de este documento se encuentran 2 imagenes muestra
 * Las busquedas dinámicas al servidor están limitadas por ser una versión alfa ya que el servidor cuenta con poco espacio.
 
+## Documentación
+
+* Presentación de Nice App como producto [[aquí](https://github.com/mglacayo07/niceapp-documentation/blob/main/presentacio%CC%81n.pdf)]
+
 ## Icono
 
 ![Icono](https://github.com/mglacayo07/niceapp-documentation/blob/main/img/icono.png)
